@@ -1,4 +1,4 @@
-# Employee Satisfaction Analysis Project
+# Human Resources project-DEPI
 
 ## Team Members
 - Amr Galal
@@ -34,13 +34,6 @@
 - **Determine Data Analysis Questions:** Identify all possible analysis questions that can be derived from the dataset and are relevant to the organization's decision-makers.
 - Explore relationships between employee attributes and satisfaction levels.
 - Define key performance indicators (KPIs) and relevant metrics.
-
-### Example Analysis Questions
-- What is the relationship between employees' ages and their satisfaction levels?
-- How does job role affect employee satisfaction?
-- Which departments have the highest and lowest satisfaction levels?
-- Is there a relationship between years of experience and employee satisfaction?
-- How do salary levels relate to employee satisfaction?
 
 ### Tools
 - Power BI
